@@ -332,7 +332,7 @@
 
 @media screen and (max-width: 575.98px) {
   .block .options .options-inner .options-left {
-    /* border: 1px solid red; */
+    border: none;
     -webkit-box-pack: center !important;
         -ms-flex-pack: center !important;
             justify-content: center !important;
